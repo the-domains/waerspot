@@ -1,0 +1,14 @@
+layout_spectrum: 0.7608329269569367
+typography_spectrum: 0.6483590444549918
+color:
+  brandStrength: 0.8867402565665543
+  lightness: 0.9925476363860071
+  saturation: 0.7122467847075313
+  rhythmicContrast: 0.8610508986748755
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: WaerSpot
